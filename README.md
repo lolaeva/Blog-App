@@ -7,14 +7,13 @@ Blog app demo. Used NodeJS for serverside, MongoDB for database, Semantic UI for
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <h3> RESTful Routing used in this project </h3>
 </head>
 <body>
 <div class="container">
     <div class="row">
         <div class="col-lg-12">
             <div class="jumbotron">
-                <h1>RESTful Routes</h1>
+                <h4>RESTful Routes</h4>
                 <p><strong>Restful Routes used in this project</strong></p>
             </div>
         </div>
