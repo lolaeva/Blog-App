@@ -1,0 +1,19 @@
+body {
+    color: black;
+    background: rgb(242, 245, 255);
+}
+.container.main {
+    margin-top: 7em;
+}
+
+i.icon {
+    font-size: 2em;
+}
+
+.eachBlog{
+    margin-top: 5em;
+}
+
+#delete {
+    display: inline;
+}
