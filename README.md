@@ -4,19 +4,12 @@ Blog app demo. Used NodeJS for serverside, MongoDB for database, Semantic UI for
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 <body>
 <div class="container">
     <div class="row">
-        <div class="col-lg-12">
-            <div class="jumbotron">
-                <h4>RESTful Routes</h4>
-                <p><strong>Restful Routes used in this project</strong></p>
-            </div>
-        </div>
+        <h3>RESTful Routes</h3>
+        <p><strong>Restful Routes used in this project</strong></p>
         <table class="table table-hover table-bordered">
             <thead>
                 <tr>
