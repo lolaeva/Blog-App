@@ -1,13 +1,13 @@
 # Blog-App
 Blog app demo. Used NodeJS for serverside, MongoDB for database, Semantic UI for stylesheet
-<p> RESTful Routing </p>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <title>RESTful Routes</title>
+    <h3> RESTful Routing used in this project </h3>
 </head>
 <body>
 <div class="container">
